@@ -1,7 +1,7 @@
 <h3 align="center"> 🐳 Welcome my GITHUB  profile ! </h3>
 <div align="center">
-<a href="https://github.com/Soong-moo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoong-moo&count_bg=%2389A7EE&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
-<a href="https://solved.ac/blueday0214"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=blueday0214"/></a>
+<a href="https://github.com/joowon-dev"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoowon-dev&count_bg=%2389A7EE&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+<a href="https://solved.ac/cool0505"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cool0505"/></a>
 </div>
 
 ## ✋🏻 Joowon Koh
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img align="right" height="250" width="50%" src="https://github-readme-stats.vercel.app/api?username=Soong-moo&show_icons=true&hide="/>
+<img align="right" height="250" width="50%" src="https://github-readme-stats.vercel.app/api?username=joowon-dev&show_icons=true&hide="/>
 
   <p align="left">
   <h4> ✈️ Usually I Use </h4>
