@@ -5,7 +5,6 @@
 </div>
 
 ## ✋🏻 Joowon Koh
-🎓 Computer Science and Engineering at Sunmoon Univ. (2019.03 ~ )
 
 🌙 I'm interested in **Full Stack**
 
